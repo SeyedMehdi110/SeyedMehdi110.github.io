@@ -503,8 +503,9 @@ main {
 .gallery img,
 .gallery .image-placeholder {
   width: 100%;
-  aspect-ratio: 9 / 16;
-  object-fit: cover;
+  aspect-ratio: 9 / 19.5;
+  object-fit: contain;
+  object-position: center top;
   background: linear-gradient(160deg, #e8eef2 0%, #d5e0e8 100%);
 }
 
