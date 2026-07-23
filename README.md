@@ -35,7 +35,7 @@ If an image is missing, the page shows a professional placeholder and continues 
 
 ## Before publishing
 
-1. Replace every occurrence of `REPLACE_WITH_MY_SUPPORT_EMAIL` with your real support email address (Contact page, Privacy Policy, and any mailto links).
+1. Confirm the support email on the Contact and Privacy Policy pages is correct (`binarywhisper.apps@gmail.com`).
 2. Add the app icon and screenshots to `assets/`.
 3. Optionally set absolute Open Graph / canonical URLs once you know your final GitHub Pages URL.
 
