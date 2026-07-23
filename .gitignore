@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local preview helpers
+.cache/
+dist/
+node_modules/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
